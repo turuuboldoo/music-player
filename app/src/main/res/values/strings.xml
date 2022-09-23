@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Spotify Clone</string>
+    <string name="app_name">Turbo Music</string>
     <string name="notification_channel_name">Music Channel</string>
     <string name="notification_channel_desc">Shows currently playing music</string>
 </resources>

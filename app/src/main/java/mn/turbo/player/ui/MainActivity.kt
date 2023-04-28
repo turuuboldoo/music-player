@@ -154,7 +154,7 @@ class MainActivity : AppCompatActivity() {
                     is Resource.Error -> {
                         Snackbar.make(
                             binding.rootConstraintLayout,
-                            result.message ?: "An unknown error occured",
+                            result.message ?: "An unknown error occurred",
                             Snackbar.LENGTH_LONG
                         ).show()
                     }
@@ -169,7 +169,7 @@ class MainActivity : AppCompatActivity() {
                     is Resource.Error -> {
                         Snackbar.make(
                             binding.rootConstraintLayout,
-                            result.message ?: "An unknown error occured",
+                            result.message ?: "An unknown error occurred",
                             Snackbar.LENGTH_LONG
                         ).show()
                     }

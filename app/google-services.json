@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:836170273207:android:c39f45f022d4df85c6d832",
         "android_client_info": {
-          "package_name": "mn.turbo.spotify"
+          "package_name": "mn.turbo.player"
         }
       },
       "oauth_client": [
